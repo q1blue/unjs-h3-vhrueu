@@ -6,7 +6,7 @@
     "dev": "listhen -w ./app.ts"
   },
   "dependencies": {
-    "h3": "^1.8.1",
+    "h3": "^1.15.5",
     "listhen": "^1.4.4"
   }
 }
